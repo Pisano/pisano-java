@@ -5,8 +5,8 @@
     <modelVersion>4.0.0</modelVersion>
 
     <groupId>org.pisano.client</groupId>
-    <artifactId>org.pisano.client</artifactId>
-    <version>1.0-SNAPSHOT</version>
+    <artifactId>PisanoClient</artifactId>
+    <version>1.0</version>
     <packaging>jar</packaging>
 
     <properties>
@@ -31,6 +31,7 @@
     <build>
         <pluginManagement>
             <plugins>
+
                 <plugin>
                     <artifactId>maven-compiler-plugin</artifactId>
                     <version>3.0</version>
